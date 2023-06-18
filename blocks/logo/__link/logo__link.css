@@ -1,0 +1,11 @@
+.logo__link {
+  color: #FFFFFF;
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 1.2;
+  text-decoration: none;
+}
+
+.logo__link:hover {
+  opacity: 50%;
+}

@@ -1,0 +1,8 @@
+.slide__leader {
+  background-image: url('../../../images/backLeader.jpg');
+  background-size: contain;
+}
+
+.slide__leader .slide__button:hover {
+  color: #D72DF3;
+}

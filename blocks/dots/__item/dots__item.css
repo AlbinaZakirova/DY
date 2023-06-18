@@ -1,0 +1,56 @@
+.dots__item {
+  background: url('../../../images/dotN.svg');
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+}
+
+.dotActive {
+  background: url('../../../images/dotJ.svg');
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+}
+
+.dotJunior {
+  background: url('../../../images/dotJ.svg');
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+}
+
+.dotSpecialist {
+  background: url('../../../images/dotS.svg');
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+}
+
+.dotLeader {
+  background: url('../../../images/dotL.svg');
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+}
+
+.dotGreen {
+  background: url('../../../images/dotGreen.svg');
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+}
+
+.dotBlue {
+  background: url('../../../images/dotBlue.svg');
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+}
+
+.dotPurple {
+  background: url('../../../images/dotPurple.svg');
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+}

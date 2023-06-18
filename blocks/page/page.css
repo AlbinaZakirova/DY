@@ -1,6 +1,4 @@
 .page {
-  background-color: #2A2C2F;
-  font-family: 'Inter', Arial, Helvetica, sans-serif;
-  color: #fff;
-  margin: 0;
+  width: 1920px;
+  font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
 }

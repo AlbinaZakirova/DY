@@ -1,0 +1,8 @@
+.slide__specialist {
+  background-image: url('../../../images/backSpecialist.jpg');
+  background-size: contain;
+}
+
+.slide__specialist .slide__button:hover {
+  color: #3577F6;
+}

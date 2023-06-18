@@ -1,0 +1,9 @@
+.info {
+  display: flex;
+  justify-content: space-between;
+  height: 745px;
+  background-color: #fff;
+  align-items: center;
+  padding-left: 160px;
+  padding-right: 160px;
+}

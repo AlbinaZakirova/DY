@@ -1,0 +1,7 @@
+.slide__block {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  position: relative;
+  padding: 0px 260px 288px 0px;
+}

@@ -1,0 +1,9 @@
+.slide__junior {
+  background-image: url('../../../images/backJunior.jpg');
+  background-size: contain;
+}
+
+.slide__junior .slide__button:hover {
+  color: #0ED984;
+  font-weight: 500;
+}

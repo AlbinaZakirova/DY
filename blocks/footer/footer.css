@@ -1,16 +1,9 @@
 .footer {
   display: flex;
-  justify-content: space-between;
-  align-items: flex-end;
-  font-family: 'Inter', Arial, Helvetica, sans-serif;
-  color: #fff;
-  padding-top: 92px;
-  padding-bottom: 24px;
+  background-color: #1D1A1A;
+  height: 65px;
+  align-items: center;
+  padding-left: 160px;
 }
 
-@media (max-width: 575px) {
-  .footer {
-    flex-wrap: wrap;
-    padding-top: 64px;
-  }
-}
+

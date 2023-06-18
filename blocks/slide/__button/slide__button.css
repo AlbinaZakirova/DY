@@ -1,0 +1,17 @@
+.slide__button {
+  padding: 18px 50px;
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+  color: #FFFFFF;
+  background-color: transparent;
+  border: 2px dashed #FFFFFF;
+  bottom: 295px;
+  left: 260px;
+}
+
+.slide__button:hover {
+  /* color: #0ED984; */
+  background-color: #FFFFFF;
+  transition: all 0.2s ease;
+}
